@@ -6,6 +6,8 @@
 \alias{tidyverse-package}
 \title{tidyverse: Easily Install and Load the 'Tidyverse'}
 \description{
+\if{html}{\figure{logo.png}{options: align='right'}}
+
 The 'tidyverse' is a set of packages that work in harmony
 because they share common data representations and 'API' design. This
 package is designed to make it easy to install and load multiple
